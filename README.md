@@ -25,3 +25,5 @@
 <hr width="400" />
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=officel&theme=github-dark-blue&hide_border=true" width="400" /></a>
 </div>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=officel&theme=github-dark&hide_title=true&hide_border=true" /></a>
