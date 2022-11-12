@@ -20,8 +20,8 @@
 
 <h3 align="left">Status on GitHub</h3>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&theme=github_dark&show_icons=true&locale=en" width="400" align="left" alt="lang"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=officel&theme=github_dark&show_icons=true&count_private=true" width="400"  alt="stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&theme=github_dark&hide_border=true&show_icons=true&locale=en" width="400" align="left" alt="lang"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=officel&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="400"  alt="stats"/></a>
 <hr width="400" />
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=officel&theme=github-dark-blue" width="400" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=officel&theme=github-dark-blue&hide_border=true" width="400" /></a>
 </div>
