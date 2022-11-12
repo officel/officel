@@ -22,10 +22,10 @@
 <a href="https://twitter.com/raki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raki" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&show_icons=true&locale=en&layout=compact" alt="officel" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&show_icons=true&locale=en&layout=compact" alt="officel" /></p>
 
 
-<h3>Status on GitHub</h3>
+<h3 align="left">Status on GitHub</h3>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=officel&theme=dark&show_icons=true" width="350" align="right" /></a>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=officel&theme=highcontrast&hide_border=true" width="350" /></a>
