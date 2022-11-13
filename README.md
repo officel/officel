@@ -17,7 +17,7 @@
 - 📫 How to contact me **https://twitter.com/raki**
 
 
-<h3 align="left">Status on GitHub</h3>
+<h3 align="left">My Stats on GitHub</h3>
 
 <div style="backgound-color:#fff">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&theme=transparent&hide_border=true&show_icons=true&locale=en&hide=html,javascript" width="47%" align="left" alt="lang"/></a>
@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=officel&theme=github-dark&hide_title=true&hide_border=true" width="98%" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=officel&theme=github-dark&hide_title=true&hide_border=true&bg_color=00000000&color=417E87&point=7FFF00" width="98%" /></a>
 </p>
 
 <p align="center">
