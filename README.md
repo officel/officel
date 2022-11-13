@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 
-<a href="https://app.daily.dev/raki"><img src="https://api.daily.dev/devcards/bd80dff21a1340df8803389a003901a0.png?r=ck2" width="200" alt="Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/raki"><img src="https://github.com/officel/officel/blob/main/devcard.svg" width="200" alt="Dev Card" align="right" /></a>
 
 - 👨‍💻 I'm a Service Reliability Engineer focusing on backend and infrastructure from Tokyo Japan.
 - 🔭 Currently working on [Oisix ra daichi Inc.](https://www.oisix.com/) in Japan, since 2019. (I've worked in IT for 30 years.)
