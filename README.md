@@ -1,23 +1,15 @@
-<h1 align="center">Hi 👋, I'm raki at Office L.</h1>
-<h3 align="center">I'm a Service Reliability Engineer focusing on backend and infrastructure from Tokyo Japan.</h3>
+<h1 align="center">raki at Office L.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officel&label=Profile%20views&color=0e75b6&style=flat" alt="officel" /> </p>
+<h2 align="left">About me</h2>
 
-
-<p align="left"> <a href="https://twitter.com/raki" target="blank"><img src="https://img.shields.io/twitter/follow/raki?logo=twitter&style=for-the-badge" alt="raki" /></a> </p>
-
-- 🔭 I’m currently working on [Oisix ra daichi Inc.](https://www.oisix.com/)
-
-- 🌱 I’m currently learning **terraform, packer, ansible and more.**
-
-- 👯 I’m looking to collaborate on [terraform-jp](https://terraformjp.github.io/)
-
-- 💬 Ask me about **AWS, DataDog, PagerDuty and more.**
-
+- 👨‍💻 I'm a Service Reliability Engineer focusing on backend and infrastructure from Tokyo Japan.
+- 🔭 Currently working on [Oisix ra daichi Inc.](https://www.oisix.com/) in Japan, since 2019. (I've worked in IT for 30 years.)
+- 🌱 Currently using **terraform, packer, ansible and more.**
+- 👯 Looking to collaborate on [terraform-jp](https://terraformjp.github.io/)
+- 💬 Ask me anything, Especially about **terraform, AWS, DataDog, PagerDuty and more.**
 - 📫 How to contact me **https://twitter.com/raki**
 
-
-<h3 align="left">My Stats on GitHub</h3>
+<h2 align="left">My Stats on GitHub</h2>
 
 <div style="backgound-color:#fff">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&theme=transparent&hide_border=true&show_icons=true&locale=en&hide=html,javascript" width="47%" align="left" alt="lang"/></a>
@@ -33,3 +25,5 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officel&theme=darkhub&no-bg=true&no-frame=true&&row=2&column=5&margin-w=30&margin-h=30" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=officel&label=Profile%20views&color=0e75b6&style=flat" alt="officel" /> </p>
