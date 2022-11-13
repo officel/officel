@@ -2,6 +2,8 @@
 
 <h2 align="left">About me</h2>
 
+<a href="https://app.daily.dev/raki"><img src="https://api.daily.dev/devcards/bd80dff21a1340df8803389a003901a0.png?r=ck2" width="200" alt="Dev Card" align="right" /></a>
+
 - 👨‍💻 I'm a Service Reliability Engineer focusing on backend and infrastructure from Tokyo Japan.
 - 🔭 Currently working on [Oisix ra daichi Inc.](https://www.oisix.com/) in Japan, since 2019. (I've worked in IT for 30 years.)
 - 🌱 Currently using **terraform, packer, ansible and more.**
@@ -9,9 +11,11 @@
 - 💬 Ask me anything, Especially about **terraform, AWS, DataDog, PagerDuty and more.**
 - 📫 How to contact me **https://twitter.com/raki**
 
+<br clear="all" />
+
 <h2 align="left">My Stats on GitHub</h2>
 
-<div style="backgound-color:#fff">
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&theme=transparent&hide_border=true&show_icons=true&locale=en&hide=html,javascript" width="47%" align="left" alt="lang"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=officel&theme=transparent&hide_border=true&show_icons=true&count_private=true" width="49%"  alt="stats"/></a>
 <hr width="49%" />
