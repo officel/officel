@@ -23,7 +23,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&theme=transparent&hide_border=true&show_icons=true&locale=en&hide=html,javascript" width="47%" align="left" alt="lang"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=officel&theme=transparent&hide_border=true&show_icons=true&count_private=true" width="49%"  alt="stats"/></a>
 <hr width="49%" />
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=officel&theme=github-dark-blue&hide_border=true&background=00000000&currStreakLabel=417E87&sideLabels=417E87" width="49%" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=officel&theme=github-dark-blue&hide_border=true&currStreakLabel=417E87&sideLabels=417E87&stroke=417E87&currStreakNum=7FFF00&background=00000000" width="49%" /></a>
 </div>
 
 <p align="center">
