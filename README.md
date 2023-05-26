@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=officel&theme=github-dark&hide_title=true&hide_border=true&bg_color=00000000&color=417E87&point=7FFF00" width="98%" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=officel&theme=github-dark&hide_title=true&hide_border=true&bg_color=00000000&color=417E87&point=7FFF00" width="98%" /></a>
 </p>
 
 <p align="center">
