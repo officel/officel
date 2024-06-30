@@ -5,7 +5,8 @@
 <a href="https://app.daily.dev/raki"><img src="https://github.com/officel/officel/blob/main/devcard.svg" width="200" alt="Dev Card" align="right" /></a>
 
 - 👨‍💻 I'm a Service Reliability Engineer focusing on backend and infrastructure from Tokyo Japan.
-- 🔭 Currently working on [Oisix ra daichi Inc.](https://www.oisix.com/) in Japan, since 2019. (I've worked in IT for 30 years.)
+- 🔭 Currently working on [AEON Smart Technology](https://www.aeon-st.co.jp/) in Japan,since 2024.
+- and [Oisix ra daichi Inc.](https://www.oisix.com/) in Japan, since 2019.
 - 🌱 Currently using **terraform, packer, ansible and more.**
 - 👯 Looking to collaborate on [terraform-jp](https://terraformjp.github.io/)
 - 💬 Ask me anything, Especially about **terraform, AWS, DataDog, PagerDuty and more.**
