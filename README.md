@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 
-<a href="https://app.daily.dev/raki"><img src="https://api.daily.dev/devcards/v2/MeePbJFwoir2HugpY0KBn.png?type=default&r=p6r" width="356" alt="NISHIMURA Yoshitaka's Dev Card"/></a>
+<a href="https://app.daily.dev/raki"><img src="https://api.daily.dev/devcards/v2/MeePbJFwoir2HugpY0KBn.png?type=default&r=p6r" width="200" alt="Dev Card" align="right"/></a>
 
 - 👨‍💻 I'm a Service Reliability Engineer focusing on backend and infrastructure from Tokyo Japan.
 - 🔭 Currently working on [AEON Smart Technology](https://www.aeon-st.co.jp/) in Japan,since 2024.
