@@ -2,15 +2,14 @@
 
 <h2 align="left">About me</h2>
 
-<a href="https://app.daily.dev/raki"><img src="https://github.com/officel/officel/blob/main/devcard.svg" width="200" alt="Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/raki"><img src="https://api.daily.dev/devcards/v2/MeePbJFwoir2HugpY0KBn.png?type=default&r=p6r" width="356" alt="NISHIMURA Yoshitaka's Dev Card"/></a>
 
 - 👨‍💻 I'm a Service Reliability Engineer focusing on backend and infrastructure from Tokyo Japan.
 - 🔭 Currently working on [AEON Smart Technology](https://www.aeon-st.co.jp/) in Japan,since 2024.
-- and [Oisix ra daichi Inc.](https://www.oisix.com/) in Japan, since 2019.
 - 🌱 Currently using **terraform, packer, ansible and more.**
 - 👯 Looking to collaborate on [terraform-jp](https://terraformjp.github.io/)
 - 💬 Ask me anything, Especially about **terraform, AWS, DataDog, PagerDuty and more.**
-- 📫 How to contact me **https://twitter.com/raki**
+- 📫 How to contact me **https://x.com/raki**
 
 <br clear="all" />
 
